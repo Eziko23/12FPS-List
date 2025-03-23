@@ -1,4 +1,4 @@
-# Welcome to the 20FPS Challenge List!
+# Welcome to the 12FPS Challenge List!
 
 # FAQ
 
